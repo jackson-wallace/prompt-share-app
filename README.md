@@ -1,7 +1,5 @@
 # Promptopia
 
-![Promptopia](promptopia.png)
-
 Promptopia is an open-source platform that enables AI users to discover, create, and share powerful AI prompts. This Next.js application provides a user-friendly interface for interacting with the Promptopia platform.
 
 ## Live Demo
