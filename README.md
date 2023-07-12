@@ -1,5 +1,7 @@
 # Prompt Share App
 
+![Alt Text](public/assets/screenshot/screenshot.png)
+
 Prompt Share App is an open-source platform that enables AI users to discover, create, and share powerful AI prompts. This Next.js application provides a user-friendly interface for interacting with the Prompt Share App platform.
 
 ## Live Demo
