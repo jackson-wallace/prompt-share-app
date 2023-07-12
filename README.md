@@ -1,21 +1,21 @@
-# Promptopia
+# Prompt Share App
 
-Promptopia is an open-source platform that enables AI users to discover, create, and share powerful AI prompts. This Next.js application provides a user-friendly interface for interacting with the Promptopia platform.
+Prompt Share App is an open-source platform that enables AI users to discover, create, and share powerful AI prompts. This Next.js application provides a user-friendly interface for interacting with the Prompt Share App platform.
 
 ## Live Demo
 
-Check out the live demo of Promptopia at [https://prompt-share-app.vercel.app/](https://prompt-share-app.vercel.app/).
+Check out the live demo of Prompt Share App at [https://prompt-share-app.vercel.app/](https://prompt-share-app.vercel.app/).
 
 ## Features
 
 - Discover a wide range of powerful AI prompts
 - Create and customize your own prompts
-- Share prompts with the Promptopia community
+- Share prompts with the Prompt Share App community
 - User-friendly interface for easy navigation and interaction
 
 ## Installation
 
-To run the Promptopia application locally, follow these steps:
+To run the Prompt Share App application locally, follow these steps:
 
 1. Clone or download this repository to your local machine.
 2. Open a terminal or command prompt and navigate to the project directory.
@@ -31,4 +31,4 @@ To run the Promptopia application locally, follow these steps:
    npm run dev
    ```
 
-5. Open your web browser and visit `http://localhost:3000` to access Promptopia.
+5. Open your web browser and visit `http://localhost:3000` to access Prompt Share App.
